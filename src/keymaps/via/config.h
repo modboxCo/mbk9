@@ -37,7 +37,7 @@
 
 //ENCODER
 #define ENCODERS 2
-#define ENCODERS_PAD_A { GP5, GP27 }
-#define ENCODERS_PAD_B { GP4, GP28 }
+#define ENCODERS_PAD_A { GP4, GP27 }
+#define ENCODERS_PAD_B { GP5, GP28 }
 #define ENCODER_RESOLUTION 4
 
